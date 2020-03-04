@@ -40,6 +40,7 @@ a {
   display: grid;
   justify-items: left;
   padding-left: 1rem;
+  width: 100%;
 }
 .img-responsive {
   max-width: 100%;
